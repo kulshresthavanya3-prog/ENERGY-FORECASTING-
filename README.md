@@ -53,3 +53,4 @@ Integration with LSTM + XGBoost ensemble for hybrid forecasting
 Real‑time data ingestion via API streaming
 Expanded regional datasets for comparative analytics
 Enhanced grid‑level optimization recommendations
+💻 Demo:http://localhost:3000/
